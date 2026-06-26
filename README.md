@@ -153,12 +153,12 @@ These visualizations demonstrate the shortest path search process and show how t
 
 | Member           | Contribution                                                           |
 | ---------------- | ---------------------------------------------------------------------- |
-| Marwan Sherif    | Multi-Level Dijkstra implementation, testing, and GitHub documentation |
-| Hana El assal    | Binary Heap Dijkstra implementation and testing                        |
-| Ziad Hossam      | A* implementation and testing                                          |
-| Aley Anany       | Bidirectional Dijkstra implementation and testing                      |
-| Kenzie Malek     | Planar-style road graph approach implementation and testing            |
-| Hala El fiky     | Distance Oracles implementation and testing                            |
+| Marwan Sherif    | Multi-Level Dijkstra implementation                                    |
+| Hana El assal    | Binary Heap Dijkstra implementation                                    |
+| Ziad Hossam      | A* implementation                                                      |
+| Aley Anany       | Bidirectional Dijkstra implementation                                  |
+| Kenzie Malek     | Planar-style road graph approach implementation                        |
+| Hala El fiky     | Distance Oracles implementation                                        |
 | Mohamed Rageh    | Visualizations                                                         |
 | Karim Mohamed    | Presentation slides                                                    |
 | Mohamed Elshafei | Testing and Github documentation                                       |
